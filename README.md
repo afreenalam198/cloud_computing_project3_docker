@@ -32,8 +32,10 @@ Final Image size - 81MB.
 To deploy the container using Kubernetes:
 
 1.  Apply the Kubernetes manifest:
+    ```bash
     kubectl apply -f deployment.yaml
-2.  Check the running pods:
+    ```
+3.  Check the running pods:
     kubectl get pods
 4.  Scale the deployment:
     kubectl scale deployment text-processing-deployment --replicas=6
