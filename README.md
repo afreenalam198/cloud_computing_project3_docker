@@ -1,4 +1,4 @@
-# Docker Text Processing Container
+# Docker Container - Automated Text Processing
 
 This project demonstrates the creation of an end-to-end Docker container that automates the process of reading text files, processing data, and generating output. 
 
