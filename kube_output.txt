@@ -1,0 +1,7 @@
+NAME                                             READY   STATUS             RESTARTS   AGE
+alamae-assignment3-deployment-5d6476b84b-6f8f9   0/1     ImagePullBackOff   0          95s
+alamae-assignment3-deployment-5d6476b84b-6k995   0/1     ImagePullBackOff   0          95s
+alamae-assignment3-deployment-5d6476b84b-8hpn2   0/1     ImagePullBackOff   0          4m2s
+alamae-assignment3-deployment-5d6476b84b-9492p   0/1     ImagePullBackOff   0          4m2s
+alamae-assignment3-deployment-5d6476b84b-gbgtd   0/1     ImagePullBackOff   0          95s
+alamae-assignment3-deployment-5d6476b84b-n62zz   0/1     ImagePullBackOff   0          95s
